@@ -4,7 +4,8 @@
   "description": "This is website where all previous year question paper and solution available",
   "main": "src/run.js",
   "scripts": {
-    "start": "node src/run.js"
+    "start": "node src/run.js",
+    "seeddata": "node scripts/speed_sampledata.js"
   },
   "author": "Shubham Thorat",
   "license": "ISC",
